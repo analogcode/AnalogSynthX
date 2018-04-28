@@ -1,5 +1,9 @@
 # AudioKit Analog Synth X Example
 
+[![Build Status](https://travis-ci.org/AudioKit/AnalogSynthX.svg)](https://travis-ci.org/AudioKit/AnalogSynthX)
+[![License](https://img.shields.io/cocoapods/l/AudioKit.svg?style=flat)](https://github.com/AudioKit/AnalogSynthX/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AudioKitMan.svg?style=social)](http://twitter.com/AudioKitMan)
+
 This is a full-featured iPad synthesizer app example by **Matthew Fecher** and **Aure Prochazka** built with Swift and AudioKit! It includes examples of Audiobus, Inter-app audio, and more.
 
 The complete source code is available now as MIT open source. Meaning, you can use it as a learning tool, or even create your own synth app from the code. There's no charge or fee to use the code. Use it as a starting point to create the synth of your dreams!
